@@ -137,6 +137,9 @@ A utilização do CORS é importante, porque além de poder restringir quem pode
 | [Open Brewery DB](https://www.openbrewerydb.org/) | Cervejarias, cidras e lojas de garrafas de cerveja artesanal | NÃO | SIM | SIM |
 | [Open Food Facts](https://world.openfoodfacts.org/data) | Banco de dados de produtos alimentícios | NÃO | SIM | DESCONHECIDO|
 | [PunkAPI](https://punkapi.com/) | Receitas de cerveja Brewdog | NÃO | SIM | DESCONHECIDO |
+| [Receitas de Edamam](https://developer.edamam.com/edamam-docs-recipe-api) | Pesquisa de receitas | api key | SIM | DESCONHECIDO |
+| [Spoonacular](https://spoonacular.com/food-api) | Receitas e Produtos Alimentícios | api Key | SIM | DESCONHECIDO |
+| [TheMealDB](https://www.themealdb.com/api.php) | Receitas de Refeição | api Key | SIM | SIM |
 | [WhiskyHunter](https://whiskyhunter.net/api/) | Dados estatísticos de leilões de uísque online anteriores | NÃO | SIM | DESCONHECIDO |
 
 :leftwards_arrow_with_hook: [Voltar à Lista](#lista)
