@@ -1,8 +1,32 @@
+# APIs Públicas :unlock:
+_Lista simples de APIs gratuitas para uso em software e desenvolvimento web_.
 
+<details>
+    <summary>AUTH :question:</summary>
+    <p>
+    <br />
+O Auth é um padrão aberto para autorização, comumente utilizado para permitir que os usuários da Internet possam fazer login em sites de terceiros usando suas contas do Google, Facebook, Microsoft, Twitter, etc._—mas, sem expor suas senhas_. Geralmente, o OAuth fornece aos clientes um "acesso seguro delegado" aos recursos do servidor em nome do proprietário do recurso.  
+    </p>
+   </details>
+   
+   <details>
+    <summary>HTTPS :question:</summary>
+    <p>
+    <br />
+o HTTPS (HTTP sobre SSL ou HTTP seguro) é, tecnicamente falando, o uso de Secure Socket Layer (SSL) ou Transport Layer Security (TLS) como um sublayer sob camadas de aplicação HTTP regular. O uso de HTTPS _protege contra a espionagem e ataques cibernéticos_.
+    </p>
+   </details>
+   
+   <details>
+    <summary>CORS :question:</summary>
+    <p>
+    <br />
+Cross-Origin Resource Sharing é a sigla atribuída ao mecanismo dos navegadores que gerencia o compartilhamento de recursos entre diferentes origens.
+Por padrão, quando fazemos uma requisição através do XMLHttpRequest ou utilizando a API Fetch do JavaScript, os navegadores utilizam a política same-origin, que só autoriza a troca de recursos entre as mesmas origens (domínios).
+A utilização do CORS é importante, porque além de poder restringir quem pode acessar os recursos de um servidor, também pode especificar como esses recursos devem ser acessados.    </p>
+   </details>
 
-_________________________________________________________________________________________________________________________________________________
 ## Lista 
-
 - [Animais](#animais) :dog:
 - [Anime](#anime) :mage:
 - [Anti-Malware](#anti-malware) :space_invader:
