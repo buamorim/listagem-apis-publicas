@@ -1,26 +1,26 @@
 
 
 _________________________________________________________________________________________________________________________________________________
-## Indice 
+## Lista 
 
-- [Animais](#animais)
-- [Anime](#anime)
-- [Anti-Malware](#anti-malware)
-- [Arte e Design](#arte-e-design)
-- [Armazenamento em Nuvem e compartilhamento de Arquivos](#armazenamento-em-nuvem-e-compartilhamento-de-arquivos)
-- [Calendário](#calendário)
-- [Câmbio Monetário](#câmbio-monetário)
-- [Clima](#clima)
-- [Comidas e Bebidas](#comidas-e-bebidas)
-- [Criptomoedas](#criptomoedas)
-- [Dicionário](#dicionário)
-- [Geocodificação](#geocodificação)
-- [Jogos e Quadrinhos](#jogos-e-quadrinhos)
-- [Meio Ambiente](#meio-ambiente)
-- [Música](#música)
-- [Saúde](#saúde)
-- [Segurança](#segurança)
-- [Veículos](#veículos)
+- [Animais](#animais) :dog:
+- [Anime](#anime) :mage:
+- [Anti-Malware](#anti-malware) :space_invader:
+- [Arte e Design](#arte-e-design) :art:
+- [Armazenamento em Nuvem e compartilhamento de Arquivos](#armazenamento-em-nuvem-e-compartilhamento-de-arquivos) :cloud:
+- [Calendário](#calendário) :calendar:
+- [Câmbio Monetário](#câmbio-monetário) :heavy_dollar_sign:
+- [Clima](#clima) :cloud_with_lightning_and_rain:
+- [Comidas e Bebidas](#comidas-e-bebidas) :spaghetti:
+- [Criptomoedas](#criptomoedas) :moneybag:
+- [Dicionário](#dicionário) :books:
+- [Geocodificação](#geocodificação) :world_map:
+- [Jogos e Quadrinhos](#jogos-e-quadrinhos) :video_game:
+- [Meio Ambiente](#meio-ambiente) :deciduous_tree:
+- [Música](#música) :musical_score:
+- [Saúde](#saúde) :syringe:
+- [Segurança](#segurança) :warning:
+- [Veículos](#veículos) :red_car:
 
 ### Animais
 | API | Descrição | Auth | HTTPS | CORS |
@@ -33,6 +33,8 @@ ________________________________________________________________________________
 | [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Adoção | NÃO | SIM | DESCONHECIDO |
 | [Shibe.Online](https://shibe.online/) | Imagens aleatórias de Shiba Inu, gatos ou pássaros | NÃO | SIM | SIM |
 
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
+
 ### Anime
 | API | Descrição | Auth | HTTPS | CORS |
 | --- | --- | --- | --- | --- |
@@ -42,10 +44,14 @@ ________________________________________________________________________________
 | [Studio Ghibli](https://ghibliapi.herokuapp.com/) | Recursos de filmes do Studio Ghibli | NÃO | SIM | SIM |
 | [Waifu.Pics](https://waifu.pics/docs) | Plataforma de compartilhamento de imagens de animes | NÃO | SIM | NÃO |
 
-### Anti-Malware
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
+
+### Anti-Malware 
 | API | Descrição | Auth | HTTPS | CORS |
 | --- | --- | --- | --- | --- |
 | [URLhaus](https://urlhaus-api.abuse.ch/) | Consultas em massa e download de amostras de malware | NÃO | SIM | DESCONHECIDO |
+
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
 
 ### Arte e Design
 | API | Descrição | Auth | HTTPS | CORS |
@@ -56,6 +62,8 @@ ________________________________________________________________________________
 | [PHP-Noise](https://php-noise.com/) | Gerador de imagem de fundo de ruído | NÃO | SIM | SIM |
 | [Pixel Encounter](https://pixelencounter.com/api) | Gerados de Ícone SVG | NÃO | SIM | SIM |
 
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
+
 ### Armazenamento em Nuvem e Compartilhamento de Arquivos
 | API | Descrição | Auth | HTTPS | CORS |
 | --- | --- | --- | --- | --- |
@@ -63,6 +71,8 @@ ________________________________________________________________________________
 | [BayFiles](https://bayfiles.com/docs/api) | Faça upload e compartilhe seus arquivos | NÃO | SIM | DESCONHECIDO |
 | [File.io](https://www.file.io/) | Compartilhamento de arquivos super simples, conveniente, anônimo e seguro | NÃO | SIM | DESCONHECIDO |
 | [Pantry](https://getpantry.cloud/) | Armazenamento JSON grátis para pequenos projetos | NÃO | SIM | SIM |
+
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
 
 ### Calendário
 | API | Descrição | Auth | HTTPS | CORS |
@@ -73,6 +83,8 @@ ________________________________________________________________________________
 | [Nager.Date](https://date.nager.at/) | Feriados para mais de 90 países | NÃO | SIM | NÃO |
 | [UnixTime Converter](https://unixtime.co.za/) | Uma API para converter UnixTime em DateTime e inverso | NÃO | SIM | DESCONHECIDO |
 
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
+
 ### Câmbio Monetário 
 | API | Descrição | Auth | HTTPS | CORS |
 | --- | --- | --- | --- | --- |
@@ -82,6 +94,8 @@ ________________________________________________________________________________
 | [National Bank of Poland](http://api.nbp.pl/en.html) | Uma coleção de taxas de câmbio (dados em XML e JSON) | NÃO | SIM | SIM |
 | [VATComply.com](https://www.vatcomply.com/documentation) | Taxas de câmbio, geolocalização e validação de número de IVA | NÃO | SIM | SIM |
 
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
+
 ### Clima 
 | API | Descrição | Auth | HTTPS | CORS |
 | --- | --- | --- | --- | --- |
@@ -89,6 +103,8 @@ ________________________________________________________________________________
 | [Hong Kong Obervatory](https://www.hko.gov.hk/en/abouthko/opendata_intro.htm) | Fornece informações meteorológicas, informações sobre terremotos e dados climáticos | NÃO | SIM | DESCONHECIDO |
 | [Open-Meteo](https://open-meteo.com/en) | API de previsão do tempo global para uso não comercial | NÃO | SIM | SIM |
 | [ODWeather](https://api.oceandrivers.com/static/docs.html) | Meteorologia e webcams | NÃO | NÃO | DESCONHECIDO |
+
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
 
 ### Comidas e Bebidas 
 | API | Descrição | Auth | HTTPS | CORS |
@@ -99,6 +115,8 @@ ________________________________________________________________________________
 | [PunkAPI](https://punkapi.com/) | Receitas de cerveja Brewdog | NÃO | SIM | DESCONHECIDO |
 | [WhiskyHunter](https://whiskyhunter.net/api/) | Dados estatísticos de leilões de uísque online anteriores | NÃO | SIM | DESCONHECIDO |
 
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
+
 ### Criptomoedas 
 | API | Descrição | Auth | HTTPS | CORS |
 | --- | --- | --- | --- | --- |
@@ -108,12 +126,16 @@ ________________________________________________________________________________
 | [CryptoCompare](https://min-api.cryptocompare.com/#) | Comparação de criptomoedas | NÃO | SIM | DESCONHECIDO |
 | [WallstreetBets](https://dashboard.nbshare.io/apps/reddit/api/) | Análise de comentários de ações do WallstreetBets | NÃO | SIM | DESCONHECIDO |
 
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
+
 ### Dicionário
 | API | Descrição | Auth | HTTPS | CORS |
 | --- | --- | --- | --- | --- |
 | [Chinese Character Web](http://ccdb.hemiola.com/) | Definições e pronúncias de caracteres chineses | NÃO | NÃO | NÃO |
 | [Chinese Text Project](https://ctext.org/tools/api) | Biblioteca digital online de acesso aberto para textos chineses pré-modernos| NÃO | SIM | DESCONHECIDO |
 | [Free Dictionary](https://dictionaryapi.dev/) | Definições, fonética, pronúncias, classes gramaticais, exemplos, sinônimos | NÃO | SIM | DESCONHECIDO |
+
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
 
 ### Geocodificação
 | API | Descrição | Auth | HTTPS | CORS |
@@ -126,6 +148,8 @@ ________________________________________________________________________________
 | [OnWater](https://onwater.io/) | Determine se uma latitude / longitude está na água ou em terra| NÃO | SIM | DESCONHECIDO |
 | [Ziptastic](https://ziptasticapi.com/) | Obtenha o país, estado e cidade de qualquer código postal dos EUA | NÃO | SIM | DESCONHECIDO |
 
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
+
 ### Jogos e Quadrinhos
 | API | Descrição | Auth | HTTPS | CORS |
 | --- | --- | --- | --- | --- |
@@ -137,6 +161,8 @@ ________________________________________________________________________________
 | [MMO Games](https://www.mmobomb.com/api) | Banco de dados, notícias e brindes de jogos MMO | NÃO | SIM | NÃO |
 | [Pokéapi](https://pokeapi.co/) | Pokémon Information | NÃO | SIM | DESCONHECIDO |
 
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
+
 ### Meio Ambiente
 | API | Descrição | Auth | HTTPS | CORS |
 | --- | --- | --- | --- | --- |
@@ -144,11 +170,15 @@ ________________________________________________________________________________
 | [PM2.5 Open Data Portal](https://pm25.lass-net.org/#apis) | Abra dados do sensor PM2.5 de baixo custo | NÃO | SIM | DESCONHECIDO |
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v2-0-0) | Intensidade de Carbono para a Grã-Bretanha | NÃO | SIM | DESCONHECIDO |
 
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
+
 ### Música
 | API | Descrição | Auth | HTTPS | CORS |
 | --- | --- | --- | --- | --- |
 | [iTunes Search](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) | Produtos de software | NÃO | SIM | DESCONHECIDO |
 | [Songsterr](https://www.songsterr.com/a/wa/api/) | Fornece guias e acordes de guitarra, baixo e bateria | NÃO | SIM | DESCONHECIDO |
+
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
 
 ### Saúde
 | API | Descrição | Auth | HTTPS | CORS |
@@ -159,14 +189,20 @@ ________________________________________________________________________________
 | [Medicare](https://data.cms.gov/provider-data/?redirect=true) | Acesso aos dados do CMS - medicare.gov | NÃO | SIM | DESCONHECIDO |
 | [openFDA](https://open.fda.gov/) | Dados públicos da FDA sobre drogas, dispositivos e alimentos | NÃO | SIM | DESCONHECIDO |
 
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
+
 ### Segurança
 | API | Descrição | Auth | HTTPS | CORS |
 | --- | --- | --- | --- | --- |
 | [FilterLists](https://filterlists.com/) | Listas de filtros para adblockers e firewalls| NÃO | SIM | DESCONHECIDO |
 | [PhishStats](https://phishstats.info/) | Banco de dados de phishing | NÃO | SIM | DESCONHECIDO |
 
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
+
 ### Veículos
 | API | Descrição | Auth | HTTPS | CORS |
 | --- | --- | --- | --- | --- |
 | [Brazilian Vehicles and Prices](https://deividfortuna.github.io/fipe/) | Informações sobre veículos da Fundação Instituto de Pesquisas Econômicas - Fipe | NÃO | SIM | DESCONHECIDO |
 | [NHTSA](https://vpic.nhtsa.dot.gov/api/) | Catálogo de informações de produtos e lista de veículos da NHTSA | NÃO | SIM | DESCONHECIDO |
+
+:leftwards_arrow_with_hook: [Voltar à Lista](#lista)
